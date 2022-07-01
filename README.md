@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" width="400px" src="https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png" alt="">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamviki&label=Profile%20views&color=0e75b6&style=flat" alt="gautamviki" /> </p>
-
+<img align="right" width="400px" src="https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png" alt="">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamviki" alt="gautamviki" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot**
