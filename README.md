@@ -1,8 +1,5 @@
-
-    <h1 align="center">Hi 👋, I'm Vikas</h1>
-    
-    <h3 align="center">A passionate Backend developer from India</h3>
-    <img align="right" src="https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png" alt="">
+<h1 align="center">Hi 👋, I'm Vikas</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamviki&label=Profile%20views&color=0e75b6&style=flat" alt="gautamviki" /> </p>
 
