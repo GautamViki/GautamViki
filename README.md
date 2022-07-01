@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://gautamviki.github.io/myportfolio/](https://gautamviki.github.io/myportfolio/)
+<img align="right" width="400px" src="https://cdn.w600.comps.canstockphoto.com/web-developer-website-development-image_csp42957476.jpg" alt="">
 
 - 💬 Ask me about **Java**
 
