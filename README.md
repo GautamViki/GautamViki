@@ -1,4 +1,4 @@
-<img align="right"  src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png" alt="">
+<img align="right" height="300px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png" alt="">
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamviki&label=Profile%20views&color=0e75b6&style=flat" alt="gautamviki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamviki" alt="gautamviki" /></a> </p>
-<img align="right" width="400px" src="https://cdn.w600.comps.canstockphoto.com/web-developer-website-development-image_csp42957476.jpg" alt="">
-
+<!-- <img align="right" width="400px" src="https://cdn.w600.comps.canstockphoto.com/web-developer-website-development-image_csp42957476.jpg" alt="">
+ -->
 - 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://gautamviki.github.io/myportfolio/](https://gautamviki.github.io/myportfolio/)
