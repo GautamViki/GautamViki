@@ -1,3 +1,5 @@
+<img align="right"  src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png" alt="">
+
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
