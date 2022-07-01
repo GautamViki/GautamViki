@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-
+<img align="right" width="400px" src="https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamviki&label=Profile%20views&color=0e75b6&style=flat" alt="gautamviki" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamviki" alt="gautamviki" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot**
@@ -13,7 +14,6 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **vikavse@gmail.com**
-<img align="right" width="400px" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201706/web-development-647_062317054646.jpg" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
