@@ -13,7 +13,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **vikavse@gmail.com**
-<img align="right" width="400px" src="https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png" alt="">
+<img align="right" width="400px" src="[https://mysterybusinessnews.com/wp-content/uploads/2022/04/Hire-Full-Time-Developer.png](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000)" alt="">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
