@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://gautamviki.github.io/myPortfolioo/#home](https://gautamviki.github.io/myPortfolioo/#home)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **vikacse@gmail.com**
