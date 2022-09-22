@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vikacse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1astZstS5z5EiOzcpqkabcXy7lxT8TC_r/view?usp=sharing)
+- 📄 Know about my experiences  <a href="https://drive.google.com/drive/folders/1J2_c4KMxB5HLTB7QVgUMdRkUyPye2zaw?usp=sharing" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/55e9ce26e4b0f0e15f28cc03/1555539083647-ZCYEGI5QXJTJPT4U5524/Resume-logo.png" alt="https://drive.google.com/drive/folders/1J2_c4KMxB5HLTB7QVgUMdRkUyPye2zaw?usp=sharing" height="40" width="50" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
