@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vikas-kumar-gautam-8229b7235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikas-kumar-gautam-8229b7235/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gautamvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gautamvi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-kumar-gautam-8229b7235/" target="blank"><img align="center" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2014/03/2000px-Linkedin.svg_.png?fit=2000%2C2000&ssl=1" alt="https://www.linkedin.com/in/vikas-kumar-gautam-8229b7235/" height="31" width="32" /></a>
+<a href="https://www.instagram.com/gautamvi/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="https://www.instagram.com/gautamvi/" height="31" width="32" /></a>
 <a href="https://www.hackerrank.com/vikacse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vikacse" height="30" width="40" /></a>
 </p>
 
